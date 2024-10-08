@@ -1,0 +1,17 @@
+#!bin/bash
+
+#tell user hello
+
+echo "Hey! what's youre name?"
+
+read name
+
+#read name stores the name they type into the variable name.
+#call the veriable name within a return greeting to customize it to their name.
+
+echo "Hey $name! Happy Hey Day!"
+
+#echo your(my)name back to the user.
+
+echo "My name is Ava!"
+
